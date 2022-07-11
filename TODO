@@ -1,0 +1,9 @@
+5 * X^0 + 8 * X^1 + X^2 * -2 = 5
+divise la partie du x^2 en 2 cases
+
+gérer le + -
+
+manage free form entry
+ne pas mettre de x --> ok
+ne pas mettre de coeff -> ok
+gérer l'affichage sans l'élément en question --> a faire
