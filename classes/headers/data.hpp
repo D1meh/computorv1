@@ -14,6 +14,7 @@ private:
 	Data(void);
 
 	void trimEquations(void);
+	void mixEquations(void);
 
 	std::string leftSide;
 	std::string rightSide;

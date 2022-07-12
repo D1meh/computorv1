@@ -7,3 +7,6 @@ manage free form entry
 ne pas mettre de x --> ok
 ne pas mettre de coeff -> ok
 gérer l'affichage sans l'élément en question --> a faire
+
+5 * X^2 + 8 * X^1 + 4 * X^3 = 0
+affiche 4 * X^3 + 5 * X^2 + 8 * X^1 + -0 * X^0 = 0
